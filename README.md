@@ -30,7 +30,7 @@ This project is a simple React application built with [React Flow](https://react
 First, clone the repository to your local machine:
 
 ```bash
-git clone 
+git clone https://github.com/RushikeshGandhmal/chatbot-flow-builder
 ```
 
 Navigate into the project directory:
