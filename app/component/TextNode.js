@@ -4,8 +4,8 @@ import { Handle, Position } from "reactflow";
 function TextNode({ data, selected }) {
   return (
     <div
-      className={`w-40  shadow-md rounded-md bg-white   ${
-        selected ? "border-solid border-2 border-yellow-500/100" : ""
+      className={`w-40  shadow-md rounded-md bg-yellow   ${
+        selected ? "border-solid border-2 border-yellow-500/100" : "border-2 border-yellow-200/100"
       } `}
     >
       <div className="flex flex-col">
