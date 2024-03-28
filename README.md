@@ -1,4 +1,4 @@
-# React Flow Task [live demo]()
+# React Flow Task [live demo](https://chatbot-flow-builder-dun.vercel.app/)
 
 This project is a simple React application built with [React Flow](https://reactflow.dev/) and next.js . It demonstrates the implementation of drag and drop nodes with the ability to connect them. The state of the nodes and their connections can be saved and restored.
 
@@ -30,7 +30,7 @@ This project is a simple React application built with [React Flow](https://react
 First, clone the repository to your local machine:
 
 ```bash
-git clone 
+git clone https://github.com/RushikeshGandhmal/chatbot-flow-builder
 ```
 
 Navigate into the project directory:
